@@ -36,7 +36,7 @@ This repository serves as a central hub for my coding projects and technical exp
 
 ## Featured Projects
 
-### [Hyprland Dotfiles](https://github.com/D1srupt3d/hypr-dots)
+### [Dotfiles](https://github.com/D1srupt3d/dotfiles)
 My personal Hyprland configuration with custom themes and layouts.
 
 ## GitHub Stats
