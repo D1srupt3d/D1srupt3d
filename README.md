@@ -37,7 +37,7 @@ This repository serves as a central hub for my coding projects and technical exp
 ## Featured Projects
 
 ### [Dotfiles](https://github.com/D1srupt3d/dotfiles)
-My personal Hyprland configuration with custom themes and layouts.
+My personal dotfiles including ZSH, Starship and my Hyprland configuration with custom themes and layouts.
 
 ## GitHub Stats
 
