@@ -34,6 +34,22 @@ This repository serves as a central hub for my coding projects and technical exp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Featured Projects
+
+### [Hyprland Dotfiles](https://github.com/D1srupt3d/hypr-dots)
+My personal Hyprland configuration with custom themes and layouts.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D1srupt3d&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D1srupt3d&layout=compact&theme=dark)
+
+## Currently Learning
+
+- Typescript for personal site (https://gamache.dev)
+- Homelab Automations
+- Random Stuff
+
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions! 
