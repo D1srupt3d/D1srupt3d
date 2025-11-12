@@ -46,7 +46,7 @@ My personal dotfiles including ZSH, Starship and my Hyprland configuration with 
 
 ## Currently Learning
 
-- Typescript for personal site (https://gamache.dev)
+- Typescript for personal site ([gamache.dev](https://gamache.dev))
 - Kubernetes
 - Random Stuff
 
