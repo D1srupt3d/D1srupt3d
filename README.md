@@ -13,12 +13,6 @@ Welcome to my personal GitHub repository! This is where I store and manage my pr
 
 This repository serves as a central hub for my coding projects and technical explorations. Feel free to explore the various projects and contributions.
 
-## What I Do
-
-I'm an **OT Infrastructure Engineer**—basically the person who makes sure factories don't explode and the network stays working (no pressure, right?). I handle IT infrastructure for factories and various industrial sites, focusing on keeping the networks, servers, and systems running smoothly. My work involves designing, implementing, and maintaining reliable, secure, and scalable IT infrastructure that supports critical operations across multiple locations.
-
-Think of me as the person who makes sure everyone can actually do their jobs—whether that's accessing files, connecting to systems, or just making sure the Wi-Fi doesn't go down during an important meeting. The stakes are high, but at least when things break, it's usually just a network issue and not an actual explosion.
-
 ## Skills & Technologies
 
 ### Programming Languages
