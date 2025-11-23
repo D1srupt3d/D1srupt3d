@@ -48,7 +48,7 @@ My personal dotfiles including ZSH, Starship and my Hyprland configuration with 
 
 - Typescript for personal site ([gamache.dev](https://gamache.dev))
 - Kubernetes
-- Random Stuff
+- Rust
 
 ## Contact
 
