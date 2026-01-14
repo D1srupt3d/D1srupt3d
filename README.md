@@ -41,9 +41,12 @@ This repository serves as a central hub for my coding projects and technical exp
 
 ### [Dotfiles](https://github.com/D1srupt3d/dotfiles)
 
-### [Excuse-as-a-service](https;//github.com/D1srupt3d/excuse-as-a-service)
-
 My personal dotfiles including ZSH, Starship and my Hyprland configuration with custom themes and layouts.
+
+### [Excuse-as-a-service](https://github.com/D1srupt3d/excuse-as-a-service)
+
+Excuse as a service. get random excuses for literally anything.
+
 
 ## Currently Learning
 
