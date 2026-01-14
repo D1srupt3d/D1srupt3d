@@ -39,13 +39,32 @@ This repository serves as a central hub for my coding projects and technical exp
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Dotfiles](https://github.com/D1srupt3d/dotfiles)
+
+<div style="padding: 10px; border: 1px solid #30363d; border-radius: 6px; background-color: #161b22;">
 
 My personal dotfiles including ZSH, Starship and my Hyprland configuration with custom themes and layouts.
 
+</div>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Excuse-as-a-service](https://github.com/D1srupt3d/excuse-as-a-service)
 
-Excuse as a service. get random excuses for literally anything.
+<div style="padding: 10px; border: 1px solid #30363d; border-radius: 6px; background-color: #161b22;">
+
+Excuse as a service. Get random excuses for literally anything.
+
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ## Currently Learning
