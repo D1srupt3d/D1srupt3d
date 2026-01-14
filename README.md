@@ -39,10 +39,7 @@ This repository serves as a central hub for my coding projects and technical exp
 ### [Dotfiles](https://github.com/D1srupt3d/dotfiles)
 My personal dotfiles including ZSH, Starship and my Hyprland configuration with custom themes and layouts.
 
-## GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=D1srupt3d&show_icons=true&theme=dark" alt="GitHub Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1srupt3d&layout=compact&theme=dark" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D1srupt3d&layout=compact&theme=dark)
 
 ## Currently Learning
 
