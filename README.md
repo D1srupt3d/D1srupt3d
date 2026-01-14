@@ -41,8 +41,8 @@ My personal dotfiles including ZSH, Starship and my Hyprland configuration with 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D1srupt3d&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D1srupt3d&layout=compact&theme=dark)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D1srupt3d&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1srupt3d&layout=compact&theme=dark" alt="Top Languages" />
 
 ## Currently Learning
 
