@@ -7,6 +7,8 @@
 ╚═════╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝        ╚═╝   ╚═════╝ ╚═════╝ 
 ```
 
+![Profile Views](https://komarev.com/ghpvc/?username=D1srupt3d&color=blue&style=for-the-badge)
+
 Welcome to my personal GitHub repository! This is where I store and manage my projects, experiments, and code snippets.
 
 ## About
@@ -22,6 +24,7 @@ This repository serves as a central hub for my coding projects and technical exp
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Infrastructure & DevOps
 
@@ -43,6 +46,19 @@ This repository serves as a central hub for my coding projects and technical exp
 - Kubernetes
 - Rust
 
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| *More coming soon...* | | |
+
+## Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D1srupt3d&theme=github-dark)
+
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions!
+
+[![Website](https://img.shields.io/badge/gamache.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gamache.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
