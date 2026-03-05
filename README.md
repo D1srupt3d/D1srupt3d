@@ -50,7 +50,8 @@ This repository serves as a central hub for my coding projects and technical exp
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| *More coming soon...* | | |
+| [dotfiles](https://github.com/D1srupt3d/dotfiles) | Personal environment configs and shell setup | Shell, Git |
+| homelab 🔒 | Self-hosted infrastructure and home server configs | Terraform, Ansible, Docker, Kubernetes |
 
 ## Activity
 
