@@ -6,8 +6,9 @@
 ██████╔╝ ██║███████║██║  ██║╚██████╔╝██║        ██║   ██████╔╝██████╔╝
 ╚═════╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝        ╚═╝   ╚═════╝ ╚═════╝ 
 ```
-
-> *It works on my cluster.*
+  
+  *The Great Disk Druid, Server Sentinel, Professional Light Blinker Observer*
+>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=D1srupt3d&color=blue&style=for-the-badge)
 
