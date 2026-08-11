@@ -50,6 +50,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [dotfiles](https://github.com/D1srupt3d/dotfiles) | Personal environment configs and shell setup | Shell, Git |
+| [strata](https://github.com/D1srupt3d/strata) | strata is a cross-platform dotfiles manager (macOS, Linux, Windows) | Go |
 
 ## Homelab 🔒
 
