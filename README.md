@@ -54,7 +54,7 @@
 
 ## Homelab 🔒
 
-Self-hosted infrastructure running on Proxmox, OPNsense, and K3s with ArgoCD-driven GitOps. Private repo — here's the stack.
+Self-hosted infrastructure running on Proxmox, OPNsense, and K3s with ArgoCD-driven GitOps. Private repo. Here's the stack.
 
 **Infra & IaC**
 
