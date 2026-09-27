@@ -51,6 +51,7 @@
 |---------|-------------|-------|
 | [dotfiles](https://github.com/D1srupt3d/dotfiles) | Personal environment configs and shell setup | Shell, Git |
 | [strata](https://github.com/D1srupt3d/strata) | strata is a cross-platform dotfiles manager (macOS, Linux, Windows) | Go |
+| [skyledger](https://github.com/D1srupt3d/skyledger) | A ledger of everything your ADS-B receiver has heard, archived in TimescaleDB with Grafana dashboards | Python, TimescaleDB, Grafana, Docker |
 
 ## Homelab 🔒
 
