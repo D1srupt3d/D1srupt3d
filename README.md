@@ -3,7 +3,13 @@
   <img alt="D1srupt3d: Infrastructure, written like software." src="assets/banner-light.svg" width="100%">
 </picture>
 
+Hey, I'm D1srupt3d 👋
+
 I build infrastructure the way good software is built: versioned, tested, and shipped through a pipeline that refuses anything unsigned. Mostly Go and Python, on Kubernetes, with OpenTofu and Ansible underneath.
+
+Off the clock I'm usually still at it, just at home: logging every plane my antenna can hear, keeping a Minecraft server or two alive, and watching a rack of blinking lights the way other people watch a fireplace.
+
+<sub><i>The Great Disk Druid, Server Sentinel, Professional Light Blinker Observer.</i></sub>
 
 [d1srupt3d.dev](https://d1srupt3d.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/liamgamache)
 
@@ -17,7 +23,7 @@ I build infrastructure the way good software is built: versioned, tested, and sh
 
 Layered dotfiles manager for macOS, Linux and Windows.
 
-It remembers what it last wrote, so it can tell your local edits from upstream changes and never overwrites either. CI runs on all three operating systems with the race detector and govulncheck, and the installer verifies each release's SSH signature before anything lands.
+I wanted my dotfiles repo to look like my home directory, not a template language. So strata stacks plain folders (`work/` on top of `base/`), remembers what it last wrote so it never overwrites your local edits, and is tested on all three operating systems with the race detector and govulncheck. Releases are SSH-signed, and the installer checks before anything lands.
 
 <sub>Go · GoReleaser · Homebrew tap</sub>
 
@@ -26,9 +32,9 @@ It remembers what it last wrote, so it can tell your local edits from upstream c
 
 #### [skyledger](https://github.com/D1srupt3d/skyledger)
 
-Long-term archive for an ADS-B aircraft receiver.
+Long-term memory for an ADS-B aircraft receiver.
 
-It decodes the receiver's binary history and live feed into TimescaleDB with exactly-once imports, then derives flights, range and signal health. CI runs integration tests against a real database with an 80% coverage gate and installs the Helm chart into a throwaway kind cluster.
+My receiver hears every plane in range, then forgets most of it. skyledger decodes its binary history and live feed into TimescaleDB with exactly-once imports, and turns it into flights, range and signal health. CI runs integration tests against a real database with an 80% coverage gate and installs the Helm chart into a throwaway kind cluster.
 
 <sub>Go · TimescaleDB · Grafana · Helm · amd64 + arm64</sub>
 
@@ -38,7 +44,7 @@ It decodes the receiver's binary history and live feed into TimescaleDB with exa
 
 ### Homelab
 
-A private, production-style platform: Proxmox and OPNsense underneath, three Kubernetes clusters on top, all of it in one repository.
+A private, production-style platform: Proxmox and OPNsense underneath, three Kubernetes clusters on top, all of it in one repository. Is it overkill for my photos and a Minecraft server? Absolutely. It's also where I learn things properly, by running them for real.
 
 | Practice | How it works |
 |---|---|
@@ -50,8 +56,8 @@ A private, production-style platform: Proxmox and OPNsense underneath, three Kub
 
 <sub>Proxmox · OPNsense · TrueNAS · OpenTofu · Ansible · Packer · K3s · Talos · Omni · Argo CD · Cilium · External Secrets · CloudNativePG · Prometheus · Grafana · Loki</sub>
 
-**Now:** moving workloads onto `lyra`, running restore drills, and learning Rust.
+**Now:** moving workloads onto `lyra`, breaking things on purpose in restore drills before they break on their own, and learning Rust, slowly.
 
 ---
 
-<sub>Also answers to the Great Disk Druid.</sub>
+If you made it this far, say hi. I'm always up for talking homelabs, Go, or why that one LED just turned amber.
